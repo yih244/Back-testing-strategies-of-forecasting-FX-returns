@@ -1,4 +1,4 @@
-# Back-testing strategies of forecasting FX returns on a rolling basis
-* Transform currency prices to monthly return and forecast next-month returns using different model selection methods
-* Determine the position of the portfolio and calculate the covariance matrix based on past returns
-* Run Risk Parity program to get a wright vector and build the portfolio
+# Building Commodity Curve Strategy for futures trading
+*	Use Python to build a commodity curve strategy to capture the commodity's term structure premium
+*	Calculate the annualized return, annualized risk, and Sharpe ratio of the strategy and identify the maximum drawdown
+
